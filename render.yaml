@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: my-discord-bot
+    env: python
+    envVars:
+      - key: DISCORD_TOKEN
+        value: "<MTQxMzAxNDUyODIxMTQxOTIzMA.GojAqa.wVR38Hb9pn8CtmoJCMgnK2g7Y4A7Hx-wwCXjRs>"
