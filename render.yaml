@@ -4,4 +4,4 @@ services:
     env: python
     envVars:
       - key: DISCORD_TOKEN
-        value: "<MTQxMzAxNDUyODIxMTQxOTIzMA.GojAqa.wVR38Hb9pn8CtmoJCMgnK2g7Y4A7Hx-wwCXjRs>"
+        value: "<MTQxMzAxNDUyODIxMTQxOTIzMA.GekZaV.P8KRXlJutAByRtOh3H2X_abFu5oplnmw983MbI>"
