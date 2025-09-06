@@ -1,6 +1,6 @@
 # bot.py
 import os
-import discord
+import discord as discord_main
 from discord.ext import commands
 from discord import PermissionOverwrite
 from flask import Flask
